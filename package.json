@@ -1,0 +1,25 @@
+{
+  "name": "board-games",
+  "version": "1.0.0",
+  "description": "Board games",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hetvi11110/board-games"
+  },
+  "keywords": [
+    "board",
+    "games"
+  ],
+  "author": "Hetvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
